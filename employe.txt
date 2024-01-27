@@ -1,0 +1,7 @@
+NOM                 PRENOM             AGE            PROFESSION
+
+NOUISSER            ZAKARIA             20             JARDINIER 
+l                   l                   0              m         
+m                   m                   0              m         
+n                   n                   0              n         
+dya                 hajar               14             dya       
